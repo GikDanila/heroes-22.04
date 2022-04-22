@@ -1,0 +1,31 @@
+C:\Users\WorldSkills\Desktop\Danila\d-fgdfhfdgh123\d]fgdfhfdgh123\bin\Debug\d]fgdfhfdgh123.exe.config
+C:\Users\WorldSkills\Desktop\Danila\d-fgdfhfdgh123\d]fgdfhfdgh123\bin\Debug\d]fgdfhfdgh123.exe
+C:\Users\WorldSkills\Desktop\Danila\d-fgdfhfdgh123\d]fgdfhfdgh123\bin\Debug\d]fgdfhfdgh123.pdb
+C:\Users\WorldSkills\Desktop\Danila\d-fgdfhfdgh123\d]fgdfhfdgh123\obj\Debug\MainWindow.g.cs
+C:\Users\WorldSkills\Desktop\Danila\d-fgdfhfdgh123\d]fgdfhfdgh123\obj\Debug\App.g.cs
+C:\Users\WorldSkills\Desktop\Danila\d-fgdfhfdgh123\d]fgdfhfdgh123\obj\Debug\d]fgdfhfdgh123_MarkupCompile.cache
+C:\Users\WorldSkills\Desktop\Danila\d-fgdfhfdgh123\d]fgdfhfdgh123\obj\Debug\d]fgdfhfdgh123_MarkupCompile.lref
+C:\Users\WorldSkills\Desktop\Danila\d-fgdfhfdgh123\d]fgdfhfdgh123\obj\Debug\MainWindow.baml
+C:\Users\WorldSkills\Desktop\Danila\d-fgdfhfdgh123\d]fgdfhfdgh123\obj\Debug\d]fgdfhfdgh123.g.resources
+C:\Users\WorldSkills\Desktop\Danila\d-fgdfhfdgh123\d]fgdfhfdgh123\obj\Debug\d_fgdfhfdgh123.Properties.Resources.resources
+C:\Users\WorldSkills\Desktop\Danila\d-fgdfhfdgh123\d]fgdfhfdgh123\obj\Debug\d]fgdfhfdgh123.csproj.GenerateResource.cache
+C:\Users\WorldSkills\Desktop\Danila\d-fgdfhfdgh123\d]fgdfhfdgh123\obj\Debug\d]fgdfhfdgh123.csproj.CoreCompileInputs.cache
+C:\Users\WorldSkills\Desktop\Danila\d-fgdfhfdgh123\d]fgdfhfdgh123\obj\Debug\d]fgdfhfdgh123.exe
+C:\Users\WorldSkills\Desktop\Danila\d-fgdfhfdgh123\d]fgdfhfdgh123\obj\Debug\d]fgdfhfdgh123.pdb
+C:\Users\WorldSkills\Desktop\Danila\d-fgdfhfdgh123\d]fgdfhfdgh123\obj\Debug\d]fgdfhfdgh123.csprojAssemblyReference.cache
+C:\Users\mggst\OneDrive\Рабочий стол\my\heroes16-04\d]fgdfhfdgh123\bin\Debug\d]fgdfhfdgh123.exe.config
+C:\Users\mggst\OneDrive\Рабочий стол\my\heroes16-04\d]fgdfhfdgh123\bin\Debug\d]fgdfhfdgh123.exe
+C:\Users\mggst\OneDrive\Рабочий стол\my\heroes16-04\d]fgdfhfdgh123\bin\Debug\d]fgdfhfdgh123.pdb
+C:\Users\mggst\OneDrive\Рабочий стол\my\heroes16-04\d]fgdfhfdgh123\obj\Debug\d]fgdfhfdgh123.csproj.SuggestedBindingRedirects.cache
+C:\Users\mggst\OneDrive\Рабочий стол\my\heroes16-04\d]fgdfhfdgh123\obj\Debug\MainWindow.g.cs
+C:\Users\mggst\OneDrive\Рабочий стол\my\heroes16-04\d]fgdfhfdgh123\obj\Debug\App.g.cs
+C:\Users\mggst\OneDrive\Рабочий стол\my\heroes16-04\d]fgdfhfdgh123\obj\Debug\d]fgdfhfdgh123_MarkupCompile.cache
+C:\Users\mggst\OneDrive\Рабочий стол\my\heroes16-04\d]fgdfhfdgh123\obj\Debug\d]fgdfhfdgh123_MarkupCompile.lref
+C:\Users\mggst\OneDrive\Рабочий стол\my\heroes16-04\d]fgdfhfdgh123\obj\Debug\MainWindow.baml
+C:\Users\mggst\OneDrive\Рабочий стол\my\heroes16-04\d]fgdfhfdgh123\obj\Debug\d]fgdfhfdgh123.g.resources
+C:\Users\mggst\OneDrive\Рабочий стол\my\heroes16-04\d]fgdfhfdgh123\obj\Debug\d_fgdfhfdgh123.Properties.Resources.resources
+C:\Users\mggst\OneDrive\Рабочий стол\my\heroes16-04\d]fgdfhfdgh123\obj\Debug\d]fgdfhfdgh123.csproj.GenerateResource.cache
+C:\Users\mggst\OneDrive\Рабочий стол\my\heroes16-04\d]fgdfhfdgh123\obj\Debug\d]fgdfhfdgh123.csproj.CoreCompileInputs.cache
+C:\Users\mggst\OneDrive\Рабочий стол\my\heroes16-04\d]fgdfhfdgh123\obj\Debug\d]fgdfhfdgh123.exe
+C:\Users\mggst\OneDrive\Рабочий стол\my\heroes16-04\d]fgdfhfdgh123\obj\Debug\d]fgdfhfdgh123.pdb
+C:\Users\mggst\OneDrive\Рабочий стол\my\heroes16-04\d]fgdfhfdgh123\obj\Debug\d]fgdfhfdgh123.csproj.AssemblyReference.cache
